@@ -1,0 +1,30 @@
+{
+    "codingChallenge" : [
+        {
+            "item" : "Rice Bag 25Kg",
+            "stock" : "7",
+            "price" : "GHS 10.00"
+
+        },
+        {
+            "item" : "bottle Honey",
+            "stock" : "19",
+            "price" : "GHS 12.00"
+        },
+        {
+            "item" : "Ideal Milk",
+            "stock" : "9",
+            "price" : "GHS 5.50"
+        },
+        {
+            "item" : "Yogurt",
+            "stock" : "70",
+            "price" : "GHS 7.00"
+        },
+        {
+            "item" : "Cube Sugar box",
+            "stock" : "15",
+            "price" : "GHS 19.50"
+        }
+    ]
+}
